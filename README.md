@@ -1,16 +1,16 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**srfifu/srfifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ivan Mansilla, un apasionado desarrollador PHP con experiencia en la creación de soluciones web eficientes y robustas.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP | MySQL | HTML | CSS | JavaScript
+- Desarrollo web orientado a resultados
+- Código limpio y modular
+- Mejora continua de habilidades
+
+## 🤝 Conéctate Conmigo
+
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
+
+¡Explora mi repositorio y descubre más sobre mi trabajo! 👨‍💻
